@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-API-reactjs/static/css/main.7db4c40b.css",
+    "main.js": "/chuck-norris-API-reactjs/static/js/main.327f5979.js",
+    "static/media/bootstrap-icons.woff?": "/chuck-norris-API-reactjs/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/chuck-norris-API-reactjs/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/chuck-norris-API-reactjs/index.html",
+    "main.7db4c40b.css.map": "/chuck-norris-API-reactjs/static/css/main.7db4c40b.css.map",
+    "main.327f5979.js.map": "/chuck-norris-API-reactjs/static/js/main.327f5979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db4c40b.css",
+    "static/js/main.327f5979.js"
+  ]
+}
